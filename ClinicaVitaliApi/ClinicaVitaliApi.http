@@ -1,0 +1,26 @@
+@baseUrl = https://localhost:7164
+@auth = Basic YWRtaW46Vml0YWxpMjAyNSE=
+
+### Obtener pacientes
+GET {{baseUrl}}/api/pacientes
+Authorization: {{auth}}
+
+### Buscar paciente por cedula
+GET {{baseUrl}}/api/pacientes/cedula/205550123
+Authorization: {{auth}}
+
+### Crear paciente
+POST {{baseUrl}}/api/pacientes
+Authorization: {{auth}}
+Content-Type: application/json
+
+{
+  "nombre": "Luis Campos",
+  "cedula": "205550777",
+  "fechaNacimiento": "1997-08-25T00:00:00",
+  "genero": "Masculino",
+  "direccion": "San Carlos centro",
+  "telefono": "88887777",
+  "correo": "luis.campos@correo.com",
+  "estadoClinico": "Control general"
+}

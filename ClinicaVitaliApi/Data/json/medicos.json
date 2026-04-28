@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Dra. Sofia Vargas",
+    "cedulaProfesional": "MED-1001",
+    "especialidad": "Medicina General",
+    "telefono": "87001111",
+    "correo": "sofia.vargas@vitali.cr",
+    "horarioConsulta": "Lunes a Viernes 8:00 a.m. - 4:00 p.m.",
+    "estado": "Activo"
+  },
+  {
+    "id": 2,
+    "nombre": "Dr. Mateo Jimenez",
+    "cedulaProfesional": "MED-1002",
+    "especialidad": "Cardiologia",
+    "telefono": "87002222",
+    "correo": "mateo.jimenez@vitali.cr",
+    "horarioConsulta": "Lunes a Jueves 1:00 p.m. - 6:00 p.m.",
+    "estado": "Activo"
+  },
+  {
+    "id": 3,
+    "nombre": "Dr. Luis Mora",
+    "cedulaProfesional": "MED-2001",
+    "especialidad": "Medicina General",
+    "telefono": "77776666",
+    "correo": "luis@vitali.com",
+    "horarioConsulta": "8:00 a.m. - 4:00 p.m.",
+    "estado": "Activo"
+  },
+  {
+    "id": 4,
+    "nombre": "",
+    "cedulaProfesional": "",
+    "especialidad": "",
+    "telefono": "",
+    "correo": "",
+    "horarioConsulta": "",
+    "estado": ""
+  }
+]

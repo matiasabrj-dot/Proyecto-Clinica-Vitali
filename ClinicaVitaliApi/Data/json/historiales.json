@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "idPaciente": 1,
+    "idMedico": 1,
+    "diagnostico": "Resfriado comun",
+    "tratamiento": "Acetaminofen y reposo por 3 dias",
+    "fechaConsulta": "2025-04-15T00:00:00"
+  },
+  {
+    "id": 2,
+    "idPaciente": 2,
+    "idMedico": 2,
+    "diagnostico": "Control de presion arterial",
+    "tratamiento": "Seguimiento y ajuste de dieta",
+    "fechaConsulta": "2025-04-18T00:00:00"
+  }
+]

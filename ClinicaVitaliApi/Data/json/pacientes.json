@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana Morales",
+    "cedula": "205550123",
+    "fechaNacimiento": "1992-04-12T00:00:00",
+    "genero": "Femenino",
+    "direccion": "Ciudad Quesada",
+    "telefono": "88881111",
+    "correo": "ana.morales@correo.com",
+    "estadoClinico": "Estable",
+    "fechaRegistro": "2025-04-20T09:00:00"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Rojas",
+    "cedula": "205550456",
+    "fechaNacimiento": "1986-10-03T00:00:00",
+    "genero": "Masculino",
+    "direccion": "Aguas Zarcas",
+    "telefono": "88882222",
+    "correo": "carlos.rojas@correo.com",
+    "estadoClinico": "Control de hipertension",
+    "fechaRegistro": "2025-04-21T10:30:00"
+  },
+  {
+    "id": 3,
+    "nombre": "matias",
+    "cedula": "123456789",
+    "fechaNacimiento": "2026-04-28T21:08:59.189Z",
+    "genero": "Maculino",
+    "direccion": "San Carlos",
+    "telefono": "88887777",
+    "correo": "matias@gmail.com",
+    "estadoClinico": "Estable",
+    "fechaRegistro": "2026-04-28T15:09:56.4212036-06:00"
+  }
+]
